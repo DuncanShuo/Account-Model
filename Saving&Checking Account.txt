@@ -1,0 +1,8 @@
+公開繼承 Public Inheritance
+1.Account
+2.Saving Account
+3.Checking Account
+
+多型Polymorphism
+
+virtual function
